@@ -1,0 +1,29 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+
+.heading h1 {
+    font-size: larger;
+    color: white;
+    justify-content: center;
+    text-align: center;
+    font-size: 130px;
+    font-family: 'Heebo', sans-serif;
+    border-bottom: 10px;
+}
+
+.content p {
+    margin: 0;
+    padding-left: 12.5%;
+    padding-right: 12.5%;
+    color: white;
+    text-align: center;
+    font-size: medium;
+    letter-spacing: 1px;
+    font-family: 'Heebo', sans-serif;
+    line-height: 140%;
+    text-align: justify;
+}
